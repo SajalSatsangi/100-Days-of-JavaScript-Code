@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+main > div {
+  background: white;
+  padding: 2rem 2rem;
+  text-align: center;
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.5);
+}
+
+main h1 {
+  margin-bottom: 45px;
+}
+
+main button {
+  padding: 3px 10px;
+  border: 2px solid black;
+  border-radius: 15px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+main button:hover {
+  opacity: 0.8;
+}
+
+main button:active {
+  opacity: 0.5;
+}
+
+#background {
+  position: absolute;
+  z-index: 0;
+  display: block;
+  min-height: 50%;
+  min-width: 50%;
+  color: yellow;
+}
+
+#content {
+  position: absolute;
+  z-index: 1;
+}
+
+#bg-text {
+  color: lightgrey;
+  font-size: 120px;
+  transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+}
