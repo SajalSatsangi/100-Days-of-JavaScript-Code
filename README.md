@@ -5,3 +5,4 @@ Welcome to the 100DaysOfCode Challenge in JavaScript.This repository contains my
 Day-1 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day1/index.html) <br/>
 Day-2 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day2/index.html) <br/>
 Day-3 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day3/index.html) <br/>
+Day-4 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day4/index.html) <br/>
