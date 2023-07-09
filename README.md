@@ -11,4 +11,7 @@ Day-6 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Cod
 Day-7 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day7/index.html) <br/>
 Day-8 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day8/index.html) <br/>
 Day-9 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day9/index.html) <br/>
+<<<<<<< HEAD
 Day-10 :- [Click Here](https://sajalsatsangi.github.io/100-Days-of-JavaScript-Code/Day1-Day10/Day10/index.html) <br/>
+=======
+>>>>>>> c461b8c5b81d70572c5892d2134e4c9d5b9c3de5
